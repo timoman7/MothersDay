@@ -1,0 +1,10 @@
+.pageLeft{
+  float: left;
+  border-right-style: solid;
+  border-right-color: black;
+}
+.pageRight{
+  float: right;
+  border-left-style: solid;
+  border-left-color: black;
+}
