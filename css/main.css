@@ -2,9 +2,13 @@
   float: left;
   border-right-style: solid;
   border-right-color: black;
+  width: 50%;
+  height: 100%;
 }
 .pageRight{
   float: right;
   border-left-style: solid;
   border-left-color: black;
+  width: 50%;
+  height: 100%;
 }
