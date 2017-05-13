@@ -1,3 +1,6 @@
+body{
+  height: 100%;
+}
 .pageLeft{
   float: left;
   border-right-style: solid;
@@ -11,4 +14,12 @@
   border-left-color: black;
   width: 50%;
   height: 100%;
+}
+.leftContent{
+  float: right;
+  
+}
+.rightContent{
+  float: left;
+  
 }
